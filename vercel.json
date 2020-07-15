@@ -3,7 +3,7 @@
   "name": "nestjs-task-managment",
   "builds": [
     {
-      "src": "*.js",
+      "src": "dist/main.js",
       "use": "@vercel/node"
     }
   ],
